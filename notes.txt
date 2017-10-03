@@ -1,0 +1,29 @@
+Install React
+-install node && npm 
+-npm install -g create-react-app 
+
+
+create new application with react 
+-create-react-app app1
+
+change directory to the app folder and run npm start to start your application
+- npm start 
+
+
+install router 
+-npm install react-router-dom --save 
+
+
+Basic Understand React
+1. View framework 
+2. Component based 
+3. Route, Nested Component 
+4. Uses a single State Model 
+5. Access Api with React
+6. Uses a data framework called Redux or Flux 
+
+React has 2 types of component - Class based component and functional component 
+class based is most recomended because it manages effiently 
+It also gives you acess lifecyle events 
+
+ 
